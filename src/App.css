@@ -1,0 +1,182 @@
+:root {
+    --color-alkali: #FF8585;
+    --color-alkaline: #FFC685;
+    --color-transition: #EFFF85;
+    --color-post-transition: #85FFCC;
+    --color-metalloid: #85F7FF;
+    --color-noble: #C7ADFF;
+    --color-nonmetal: #9DC9FB;
+    --color-lanthanide: #F4D6FF;
+    --color-actinide: #E499FF;
+    --color-unknown: #ebebeb;
+    --grid-columns: 18;
+    --grid-gap: .25rem;
+    --element-size: var(--size-xxxl);
+    --element-padding: .5rem;
+    --element-color: currentColor;
+    --element-bg: cyan;
+    --element-border-radius: var(--component-border-radius);
+}
+
+.periodic-table {
+    display: grid;
+    grid-template-columns: repeat(18, 1fr);
+    grid-template-rows: repeat(10, 1fr);
+    gap: .25rem;
+}
+
+.col-start-12 {
+    grid-column-start: 12;
+}
+
+.col-start-13 {
+    grid-column-start: 13;
+}
+
+.col-start-14 {
+    grid-column-start: 14;
+}
+
+.col-start-15 {
+    grid-column-start: 15;
+}
+
+.col-start-16 {
+    grid-column-start: 16;
+}
+
+.col-start-17 {
+    grid-column-start: 17;
+}
+
+.col-start-18 {
+    grid-column-start: 18;
+}
+
+.row-start-1 {
+    grid-row-start: 1;
+}
+
+
+.lanthanide {
+    grid-row-start: 9;
+}
+
+.actinide {
+    grid-row-start: 10;
+}
+
+.element {
+    display: grid;
+    grid-template-areas: "number weight"
+                         "symbol symbol"
+                         "name name";
+    grid-template-rows: repeat(3, 1fr);
+    align-items: center;
+    width: var(--element-size);
+    height: var(--element-size);
+    padding: var(--element-padding);
+    font-weight: var(--font-weight-semibold);
+    line-height: 1;
+    color: var(--element-color);
+    background-color: var(--element-bg);
+    border-radius: var(--element-border-radius);
+}
+
+.element:hover {
+    transform: scale(1.618);
+    transition: transform .15s ease-in-out;
+}
+
+.element-atomic-number {
+    grid-area: number;
+    justify-self: flex-start;
+}
+
+.element-molar-mass {
+    font-size: var(--font-size-xs);
+    grid-area: weight;
+    justify-self: flex-end;
+}
+
+.element-symbol {
+    font-size: var(--font-size-xl);
+    grid-area: symbol;
+    justify-self: center;
+}
+
+.element-name {
+    font-size: var(--font-size-xs);
+    grid-area: name;
+    justify-self: center;
+}
+
+.element {
+    --element-size: 48px;
+    --element-padding: .25rem
+}
+
+.element-atomic-number {
+    font-size: 0.618rem;
+    grid-area: number;
+    justify-self: flex-start;
+}
+
+.element-molar-mass {
+    font-size: 0.382rem;
+    grid-area: weight;
+    justify-self: flex-end;
+    align-self: center;
+}
+
+.element-symbol {
+    font-size: var(--font-size-md);
+    grid-area: symbol;
+    justify-self: center;
+}
+
+.element-name {
+    font-size: 0.382rem;
+    grid-area: name;
+    justify-self: center;
+}
+
+.alkali {
+    --element-bg: var(--color-alkali);
+}
+
+.alkaline {
+    --element-bg: var(--color-alkaline);
+}
+
+.transition {
+    --element-bg: var(--color-transition);
+}
+
+.post-transition {
+    --element-bg: var(--color-post-transition);
+}
+
+.metalloid {
+    --element-bg: var(--color-metalloid);
+}
+
+.nonmetal {
+    --element-bg: var(--color-nonmetal);
+}
+
+.noble {
+    --element-bg: var(--color-noble);
+}
+
+.lanthanide {
+    --element-bg: var(--color-lanthanide);
+}
+
+.actinide {
+    --element-bg: var(--color-actinide);
+}
+
+.unknown {
+    --element-bg: var(--color-unknown);
+}

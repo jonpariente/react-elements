@@ -1,0 +1,1066 @@
+{
+    "elements": [
+        {
+            "name": "Hydrogenium",
+            "symbol": "H",
+            "atomic_number": 1,
+            "group": 1,
+            "period": 1,
+            "molar_mass": 1.00794,
+            "category": "nonmetal"
+        },
+        {
+            "name": "Helium",
+            "symbol": "He",
+            "atomic_number": 2,
+            "group": 18,
+            "period": 1,
+            "molar_mass": 4.002602,
+            "category": "noble-gas"
+        },
+        {
+            "name": "Lithium",
+            "symbol": "Li",
+            "atomic_number": 3,
+            "group": 1,
+            "period": 2,
+            "molar_mass": 6.941,
+            "category": "alkali"
+        },
+        {
+            "name": "Beryllium",
+            "symbol": "Be",
+            "atomic_number": 4,
+            "group": 2,
+            "period": 2,
+            "molar_mass": 9.012182,
+            "category": "alkaline-earth"
+        },
+        {
+            "name": "Borium",
+            "symbol": "B",
+            "atomic_number": 5,
+            "group": 13,
+            "period": 2,
+            "molar_mass": 10.811,
+            "category": "metalloid"
+        },
+        {
+            "name": "Carbonium",
+            "symbol": "C",
+            "atomic_number": 6,
+            "group": 14,
+            "period": 2,
+            "molar_mass": 12.0107,
+            "category": "nonmetal"
+        },
+        {
+            "name": "Nitrogenium",
+            "symbol": "N",
+            "atomic_number": 7,
+            "group": 15,
+            "period": 2,
+            "molar_mass": 14.0067,
+            "category": "nonmetal"
+        },
+        {
+            "name": "Oxygenium",
+            "symbol": "O",
+            "atomic_number": 8,
+            "group": 16,
+            "period": 2,
+            "molar_mass": 15.9994,
+            "category": "nonmetal"
+        },
+        {
+            "name": "Fluorum",
+            "symbol": "F",
+            "atomic_number": 9,
+            "group": 17,
+            "period": 2,
+            "molar_mass": 18.9984032,
+            "category": "halogen"
+        },
+        {
+            "name": "Neon",
+            "symbol": "Ne",
+            "atomic_number": 10,
+            "group": 18,
+            "period": 2,
+            "molar_mass": 20.1797,
+            "category": "noble-gas"
+        },
+        {
+            "name": "Natrium",
+            "symbol": "Na",
+            "atomic_number": 11,
+            "group": 1,
+            "period": 3,
+            "molar_mass": 22.989770,
+            "category": "alkali"
+        },
+        {
+            "name": "Magnesium",
+            "symbol": "Mg",
+            "atomic_number": 12,
+            "group": 2,
+            "period": 3,
+            "molar_mass": 24.3050,
+            "category": "alkaline-earth"
+        },
+        {
+            "name": "Aluminium",
+            "symbol": "Al",
+            "atomic_number": 13,
+            "group": 13,
+            "period": 3,
+            "molar_mass": 26.981538,
+            "category": "post-transition"
+        },
+        {
+            "name": "Silicium",
+            "symbol": "Si",
+            "atomic_number": 14,
+            "group": 14,
+            "period": 3,
+            "molar_mass": 28.0855,
+            "category": "metalloid"
+        },
+        {
+            "name": "Phosphorus",
+            "symbol": "P",
+            "atomic_number": 15,
+            "group": 15,
+            "period": 3,
+            "molar_mass": 30.973761,
+            "category": "nonmetal"
+        },
+        {
+            "name": "Sulphur",
+            "symbol": "S",
+            "atomic_number": 16,
+            "group": 16,
+            "period": 3,
+            "molar_mass": 32.065,
+            "category": "nonmetal"
+        },
+        {
+            "name": "Chlorum",
+            "symbol": "Cl",
+            "atomic_number": 17,
+            "group": 17,
+            "period": 3,
+            "molar_mass": 35.453,
+            "category": "halogen"
+        },
+        {
+            "name": "Argon",
+            "symbol": "Ar",
+            "atomic_number": 18,
+            "group": 18,
+            "period": 3,
+            "molar_mass": 39.948,
+            "category": "noble-gas"
+        },
+        {
+            "name": "Kalium",
+            "symbol": "K",
+            "atomic_number": 19,
+            "group": 1,
+            "period": 4,
+            "molar_mass": 39.098,
+            "category": "alkali"
+        },
+        {
+            "name": "Calcium",
+            "symbol": "Ca",
+            "atomic_number": 20,
+            "group": 2,
+            "period": 4,
+            "molar_mass": 40.078,
+            "category": "alkaline-earth"
+        },
+        {
+            "name": "Scandium",
+            "symbol": "Sc",
+            "atomic_number": 21,
+            "group": 3,
+            "period": 4,
+            "molar_mass": 44.955910,
+            "category": "transition"
+        },
+        {
+            "name": "Titanium",
+            "symbol": "Ti",
+            "atomic_number": 22,
+            "group": 4,
+            "period": 4,
+            "molar_mass": 47.867,
+            "category": "transition"
+        },
+        {
+            "name": "Vanadium",
+            "symbol": "V",
+            "atomic_number": 23,
+            "group": 5,
+            "period": 4,
+            "molar_mass": 50.9415,
+            "category": "transition"
+        },
+        {
+            "name": "Chromium",
+            "symbol": "Cr",
+            "atomic_number": 24,
+            "group": 6,
+            "period": 4,
+            "molar_mass": 51.9961,
+            "category": "transition"
+        },
+        {
+            "name": "Manganum",
+            "symbol": "Mn",
+            "atomic_number": 25,
+            "group": 7,
+            "period": 4,
+            "molar_mass": 54.938049,
+            "category": "transition"
+        },
+        {
+            "name": "Ferrum",
+            "symbol": "Fe",
+            "atomic_number": 26,
+            "group": 8,
+            "period": 4,
+            "molar_mass": 55.845,
+            "category": "transition"
+        },
+        {
+            "name": "Cobaltum",
+            "symbol": "Co",
+            "atomic_number": 27,
+            "group": 9,
+            "period": 4,
+            "molar_mass": 58.933200,
+            "category": "transition"
+        },
+        {
+            "name": "Niccolum",
+            "symbol": "Ni",
+            "atomic_number": 28,
+            "group": 10,
+            "period": 4,
+            "molar_mass": 58.6934,
+            "category": "transition"
+        },
+        {
+            "name": "Cuprum",
+            "symbol": "Cu",
+            "atomic_number": 29,
+            "group": 11,
+            "period": 4,
+            "molar_mass": 63.546,
+            "category": "transition"
+        },
+        {
+            "name": "Zincum",
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "group": 12,
+            "period": 4,
+            "molar_mass": 65.409,
+            "category": "transition"
+        },
+        {
+            "name": "Gallium",
+            "symbol": "Ga",
+            "atomic_number": 31,
+            "group": 13,
+            "period": 4,
+            "molar_mass": 69.723,
+            "category": "post-transition"
+        },
+        {
+            "name": "Germanium",
+            "symbol": "Ge",
+            "atomic_number": 32,
+            "group": 14,
+            "period": 4,
+            "molar_mass": 72.64,
+            "category": "metalloid"
+        },
+        {
+            "name": "Arsenicum",
+            "symbol": "As",
+            "atomic_number": 33,
+            "group": 15,
+            "period": 4,
+            "molar_mass": 74.92160,
+            "category": "metalloid"
+        },
+        {
+            "name": "Selenium",
+            "symbol": "Se",
+            "atomic_number": 34,
+            "group": 16,
+            "period": 4,
+            "molar_mass": 78.96,
+            "category": "nonmetal"
+        },
+        {
+            "name": "Bromum",
+            "symbol": "Br",
+            "atomic_number": 35,
+            "group": 17,
+            "period": 4,
+            "molar_mass": 79.904,
+            "category": "halogen"
+        },
+        {
+            "name": "Krypton",
+            "symbol": "Kr",
+            "atomic_number": 36,
+            "group": 18,
+            "period": 4,
+            "molar_mass": 83.798,
+            "category": "noble-gas"
+        },
+        {
+            "name": "Rubidium",
+            "symbol": "Rb",
+            "atomic_number": 37,
+            "group": 1,
+            "period": 5,
+            "molar_mass": 85.4678,
+            "category": "alkali"
+        },
+        {
+            "name": "Strontium",
+            "symbol": "Sr",
+            "atomic_number": 38,
+            "group": 2,
+            "period": 5,
+            "molar_mass": 87.62,
+            "category": "alkaline-earth"
+        },
+        {
+            "name": "Yttrium",
+            "symbol": "Y",
+            "atomic_number": 39,
+            "group": 3,
+            "period": 5,
+            "molar_mass": 88.90585,
+            "category": "transition"
+        },
+        {
+            "name": "Zirconium",
+            "symbol": "Zr",
+            "atomic_number": 40,
+            "group": 4,
+            "period": 5,
+            "molar_mass": 91.224,
+            "category": "transition"
+        },
+        {
+            "name": "Niobium",
+            "symbol": "Nb",
+            "atomic_number": 41,
+            "group": 5,
+            "period": 5,
+            "molar_mass": 92.90638,
+            "category": "transition"
+        },
+        {
+            "name": "Molybdenum",
+            "symbol": "Mo",
+            "atomic_number": 42,
+            "group": 6,
+            "period": 5,
+            "molar_mass": 95.94,
+            "category": "transition"
+        },
+        {
+            "name": "Technetium",
+            "symbol": "Tc",
+            "atomic_number": 43,
+            "group": 7,
+            "period": 5,
+            "molar_mass": 99,
+            "category": "transition"
+        },
+        {
+            "name": "Ruthenium",
+            "symbol": "Ru",
+            "atomic_number": 44,
+            "group": 8,
+            "period": 5,
+            "molar_mass": 101.07,
+            "category": "transition"
+        },
+        {
+            "name": "Rhodium",
+            "symbol": "Rh",
+            "atomic_number": 45,
+            "group": 9,
+            "period": 5,
+            "molar_mass": 102.90550,
+            "category": "transition"
+        },
+        {
+            "name": "Palladium",
+            "symbol": "Pd",
+            "atomic_number": 46,
+            "group": 10,
+            "period": 5,
+            "molar_mass": 106.42,
+            "category": "transition"
+        },
+        {
+            "name": "Argentum",
+            "symbol": "Ag",
+            "atomic_number": 47,
+            "group": 11,
+            "period": 5,
+            "molar_mass": 107.8682,
+            "category": "transition"
+        },
+        {
+            "name": "Cadmium",
+            "symbol": "Cd",
+            "atomic_number": 48,
+            "group": 12,
+            "period": 5,
+            "molar_mass": 112.411,
+            "category": "transition"
+        },
+        {
+            "name": "Indium",
+            "symbol": "In",
+            "atomic_number": 49,
+            "group": 13,
+            "period": 5,
+            "molar_mass": 114.813,
+            "category": "post-transition"
+        },
+        {
+            "name": "Stannum",
+            "symbol": "Sn",
+            "atomic_number": 50,
+            "group": 14,
+            "period": 5,
+            "molar_mass": 118.710,
+            "category": "post-transition"
+        },
+        {
+            "name": "Stibium",
+            "symbol": "Sb",
+            "atomic_number": 51,
+            "group": 15,
+            "period": 5,
+            "molar_mass": 121.760,
+            "category": "metalloid"
+        },
+        {
+            "name": "Tellurium",
+            "symbol": "Te",
+            "atomic_number": 52,
+            "group": 16,
+            "period": 5,
+            "molar_mass": 127.60,
+            "category": "metalloid"
+        },
+        {
+            "name": "Iodum",
+            "symbol": "I",
+            "atomic_number": 53,
+            "group": 17,
+            "period": 5,
+            "molar_mass": 126.90447,
+            "category": "halogen"
+        },
+        {
+            "name": "Xenon",
+            "symbol": "Xe",
+            "atomic_number": 54,
+            "group": 18,
+            "period": 5,
+            "molar_mass": 131.293,
+            "category": "noble-gas"
+        },
+        {
+            "name": "Caesium",
+            "symbol": "Cs",
+            "atomic_number": 55,
+            "group": 1,
+            "period": 6,
+            "molar_mass": 132.90545,
+            "category": "alkali"
+        },
+        {
+            "name": "Barium",
+            "symbol": "Ba",
+            "atomic_number": 56,
+            "group": 2,
+            "period": 6,
+            "molar_mass": 137.327,
+            "category": "alkaline-earth"
+        },
+        {
+            "name": "Lanthanum",
+            "symbol": "La",
+            "atomic_number": 57,
+            "group": null,
+            "period": 6,
+            "molar_mass": 138.9055,
+            "category": "lanthanide"
+        },
+        {
+            "name": "Cerium",
+            "symbol": "Ce",
+            "atomic_number": 58,
+            "group": null,
+            "period": 6,
+            "molar_mass": 140.116,
+            "category": "lanthanide"
+        },
+        {
+            "name": "Praseodymium",
+            "symbol": "Pr",
+            "atomic_number": 59,
+            "group": null,
+            "period": 6,
+            "molar_mass": 140.90765,
+            "category": "lanthanide"
+        },
+        {
+            "name": "Neodymium",
+            "symbol": "Nd",
+            "atomic_number": 60,
+            "group": null,
+            "period": 6,
+            "molar_mass": 144.24,
+            "category": "lanthanide"
+        },
+        {
+            "name": "Promethium",
+            "symbol": "Pm",
+            "atomic_number": 61,
+            "group": null,
+            "period": 6,
+            "molar_mass": 145,
+            "category": "lanthanide"
+        },
+        {
+            "name": "Samarium",
+            "symbol": "Sm",
+            "atomic_number": 62,
+            "group": null,
+            "period": 6,
+            "molar_mass": 150.36,
+            "category": "lanthanide"
+        },
+        {
+            "name": "Europium",
+            "symbol": "Eu",
+            "atomic_number": 63,
+            "group": null,
+            "period": 6,
+            "molar_mass": 151.964,
+            "category": "lanthanide"
+        },
+        {
+            "name": "Gadolinium",
+            "symbol": "Gd",
+            "atomic_number": 64,
+            "group": null,
+            "period": 6,
+            "molar_mass": 157.25,
+            "category": "lanthanide"
+        },
+        {
+            "name": "Terbium",
+            "symbol": "Tb",
+            "atomic_number": 65,
+            "group": null,
+            "period": 6,
+            "molar_mass": 158.92534,
+            "category": "lanthanide"
+        },
+        {
+            "name": "Dysprosium",
+            "symbol": "Dy",
+            "atomic_number": 66,
+            "group": null,
+            "period": 6,
+            "molar_mass": 162.500,
+            "category": "lanthanide"
+        },
+        {
+            "name": "Holmium",
+            "symbol": "Ho",
+            "atomic_number": 67,
+            "group": null,
+            "period": 6,
+            "molar_mass": 164.93032,
+            "category": "lanthanide"
+        },
+        {
+            "name": "Erbium",
+            "symbol": "Er",
+            "atomic_number": 68,
+            "group": null,
+            "period": 6,
+            "molar_mass": 167.259,
+            "category": "lanthanide"
+        },
+        {
+            "name": "Thulium",
+            "symbol": "Tm",
+            "atomic_number": 69,
+            "group": null,
+            "period": 6,
+            "molar_mass": 168.93421,
+            "category": "lanthanide"
+        },
+        {
+            "name": "Ytterbium",
+            "symbol": "Yb",
+            "atomic_number": 70,
+            "group": null,
+            "period": 6,
+            "molar_mass": 173.04,
+            "category": "lanthanide"
+        },
+        {
+            "name": "Lutetium",
+            "symbol": "Lu",
+            "atomic_number": 71,
+            "group": 3,
+            "period": 6,
+            "molar_mass": 174.967,
+            "category": "lanthanide"
+        },
+        {
+            "name": "Hafnium",
+            "symbol": "Hf",
+            "atomic_number": 72,
+            "group": 4,
+            "period": 6,
+            "molar_mass": 178.49,
+            "category": "transition"
+        },
+        {
+            "name": "Tantalum",
+            "symbol": "Ta",
+            "atomic_number": 73,
+            "group": 5,
+            "period": 6,
+            "molar_mass": 180.947,
+            "category": "transition"
+        },
+        {
+            "name": "Wolframium",
+            "symbol": "W",
+            "atomic_number": 74,
+            "group": 6,
+            "period": 6,
+            "molar_mass": 183.84,
+            "category": "transition"
+        },
+        {
+            "name": "Rhenium",
+            "symbol": "Re",
+            "atomic_number": 75,
+            "group": 7,
+            "period": 6,
+            "molar_mass": 186.207,
+            "category": "transition"
+        },
+        {
+            "name": "Osmium",
+            "symbol": "Os",
+            "atomic_number": 76,
+            "group": 8,
+            "period": 6,
+            "molar_mass": 190.23,
+            "category": "transition"
+        },
+        {
+            "name": "Iridium",
+            "symbol": "Ir",
+            "atomic_number": 77,
+            "group": 9,
+            "period": 6,
+            "molar_mass": 192.217,
+            "category": "transition"
+        },
+        {
+            "name": "Platinum",
+            "symbol": "Pt",
+            "atomic_number": 78,
+            "group": 10,
+            "period": 6,
+            "molar_mass": 195.078,
+            "category": "transition"
+        },
+        {
+            "name": "Aurum",
+            "symbol": "Au",
+            "atomic_number": 79,
+            "group": 11,
+            "period": 6,
+            "molar_mass": 196.96655,
+            "category": "transition"
+        },
+        {
+            "name": "Hydrargyrum",
+            "symbol": "Hg",
+            "atomic_number": 80,
+            "group": 12,
+            "period": 6,
+            "molar_mass": 200.59,
+            "category": "transition"
+        },
+        {
+            "name": "Thallium",
+            "symbol": "Tl",
+            "atomic_number": 81,
+            "group": 13,
+            "period": 6,
+            "molar_mass": 204.3833,
+            "category": "post-transition"
+        },
+        {
+            "name": "Plumbum",
+            "symbol": "Pb",
+            "atomic_number": 82,
+            "group": 14,
+            "period": 6,
+            "molar_mass": 207.2,
+            "category": "post-transition"
+        },
+        {
+            "name": "Bisemutum",
+            "symbol": "Bi",
+            "atomic_number": 83,
+            "group": 15,
+            "period": 6,
+            "molar_mass": 208.98038,
+            "category": "post-transition"
+        },
+        {
+            "name": "Polonium",
+            "symbol": "Po",
+            "atomic_number": 84,
+            "group": 16,
+            "period": 6,
+            "molar_mass": 210,
+            "category": "metalloid"
+        },
+        {
+            "name": "Astatum",
+            "symbol": "At",
+            "atomic_number": 85,
+            "group": 17,
+            "period": 6,
+            "molar_mass": 210,
+            "category": "halogen"
+        },
+        {
+            "name": "Radon",
+            "symbol": "Rn",
+            "atomic_number": 86,
+            "group": 18,
+            "period": 6,
+            "molar_mass": 222,
+            "category": "noble-gas"
+        },
+        {
+            "name": "Francium",
+            "symbol": "Fr",
+            "atomic_number": 87,
+            "group": 1,
+            "period": 7,
+            "molar_mass": 223,
+            "category": "alkali"
+        },
+        {
+            "name": "Radium",
+            "symbol": "Ra",
+            "atomic_number": 88,
+            "group": 2,
+            "period": 7,
+            "molar_mass": 226,
+            "category": "alkaline-earth"
+        },
+        {
+            "name": "Actinium",
+            "symbol": "Ac",
+            "atomic_number": 89,
+            "group": null,
+            "period": 7,
+            "molar_mass": 227,
+            "category": "actinide"
+        },
+        {
+            "name": "Thorium",
+            "symbol": "Th",
+            "atomic_number": 90,
+            "group": null,
+            "period": 7,
+            "molar_mass": 232.0381,
+            "category": "actinide"
+        },
+        {
+            "name": "Protactinium",
+            "symbol": "Pa",
+            "atomic_number": 91,
+            "group": null,
+            "period": 7,
+            "molar_mass": 231.03588,
+            "category": "actinide"
+        },
+        {
+            "name": "Uranium",
+            "symbol": "U",
+            "atomic_number": 92,
+            "group": null,
+            "period": 7,
+            "molar_mass": 238.02891,
+            "category": "actinide"
+        },
+        {
+            "name": "Neptunium",
+            "symbol": "Np",
+            "atomic_number": 93,
+            "group": null,
+            "period": 7,
+            "molar_mass": 237,
+            "category": "actinide"
+        },
+        {
+            "name": "Plutonium",
+            "symbol": "Pu",
+            "atomic_number": 94,
+            "group": null,
+            "period": 7,
+            "molar_mass": 244,
+            "category": "actinide"
+        },
+        {
+            "name": "Americium",
+            "symbol": "Am",
+            "atomic_number": 95,
+            "group": null,
+            "period": 7,
+            "molar_mass": 243,
+            "category": "actinide"
+        },
+        {
+            "name": "Curium",
+            "symbol": "Cm",
+            "atomic_number": 96,
+            "group": null,
+            "period": 7,
+            "molar_mass": 247,
+            "category": "actinide"
+        },
+        {
+            "name": "Berkelium",
+            "symbol": "Bk",
+            "atomic_number": 97,
+            "group": null,
+            "period": 7,
+            "molar_mass": 247,
+            "category": "actinide"
+        },
+        {
+            "name": "Californium",
+            "symbol": "Cf",
+            "atomic_number": 98,
+            "group": null,
+            "period": 7,
+            "molar_mass": 251,
+            "category": "actinide"
+        },
+        {
+            "name": "Einsteinium",
+            "symbol": "Es",
+            "atomic_number": 99,
+            "group": null,
+            "period": 7,
+            "molar_mass": 254,
+            "category": "actinide"
+        },
+        {
+            "name": "Fermium",
+            "symbol": "Fm",
+            "atomic_number": 100,
+            "group": null,
+            "period": 7,
+            "molar_mass": 257,
+            "category": "actinide"
+        },
+        {
+            "name": "Mendelevium",
+            "symbol": "Md",
+            "atomic_number": 101,
+            "group": null,
+            "period": 7,
+            "molar_mass": 260,
+            "category": "actinide"
+        },
+        {
+            "name": "Nobelium",
+            "symbol": "No",
+            "atomic_number": 102,
+            "group": null,
+            "period": 7,
+            "molar_mass": 259,
+            "category": "actinide"
+        },
+        {
+            "name": "Lawrencium",
+            "symbol": "Lr",
+            "atomic_number": 103,
+            "group": 3,
+            "period": 7,
+            "molar_mass": 262,
+            "category": "actinide"
+        },
+        {
+            "name": "Rutherfordium",
+            "symbol": "Rf",
+            "atomic_number": 104,
+            "group": 4,
+            "period": 7,
+            "molar_mass": 261,
+            "category": "transition"
+        },
+        {
+            "name": "Dubnium",
+            "symbol": "Db",
+            "atomic_number": 105,
+            "group": 5,
+            "period": 7,
+            "molar_mass": 262,
+            "category": "transition"
+        },
+        {
+            "name": "Seaborgium",
+            "symbol": "Sg",
+            "atomic_number": 106,
+            "group": 6,
+            "period": 7,
+            "molar_mass": 266,
+            "category": "transition"
+        },
+        {
+            "name": "Bohrium",
+            "symbol": "Bh",
+            "atomic_number": 107,
+            "group": 7,
+            "period": 7,
+            "molar_mass": 262,
+            "category": "transition"
+        },
+        {
+            "name": "Hassium",
+            "symbol": "Hs",
+            "atomic_number": 108,
+            "group": 8,
+            "period": 7,
+            "molar_mass": 265,
+            "category": "transition"
+        },
+        {
+            "name": "Meitnerium",
+            "symbol": "Mt",
+            "atomic_number": 109,
+            "group": 9,
+            "period": 7,
+            "molar_mass": 266,
+            "category": "transition"
+        },
+        {
+            "name": "Darmstadtium",
+            "symbol": "Ds",
+            "atomic_number": 110,
+            "group": 10,
+            "period": 7,
+            "molar_mass": 281,
+            "category": "transition"
+        },
+        {
+            "name": "Roentgenium",
+            "symbol": "Rg",
+            "atomic_number": 111,
+            "group": 11,
+            "period": 7,
+            "molar_mass": 272,
+            "category": "transition"
+        },
+        {
+            "name": "Copernicium",
+            "symbol": "Cn",
+            "atomic_number": 112,
+            "group": 12,
+            "period": 7,
+            "molar_mass": 285,
+            "category": "transition"
+        },
+        {
+            "name": "Nihonium",
+            "symbol": "Nh",
+            "atomic_number": 113,
+            "group": 13,
+            "period": 7,
+            "molar_mass": 286,
+            "category": "post-transition"
+        },
+        {
+            "name": "Flerovium",
+            "symbol": "Fl",
+            "atomic_number": 114,
+            "group": 14,
+            "period": 7,
+            "molar_mass": 289,
+            "category": "post-transition"
+        },
+        {
+            "name": "Moscovium",
+            "symbol": "Mc",
+            "atomic_number": 115,
+            "group": 15,
+            "period": 7,
+            "molar_mass": 290,
+            "category": "post-transition"
+        },
+        {
+            "name": "Livermorium",
+            "symbol": "Lv",
+            "atomic_number": 116,
+            "group": 16,
+            "period": 7,
+            "molar_mass": 293,
+            "category": "post-transition"
+        },
+        {
+            "name": "Tennessine",
+            "symbol": "Ts",
+            "atomic_number": 117,
+            "group": 17,
+            "period": 7,
+            "molar_mass": 294,
+            "category": "halogen"
+        },
+        {
+            "name": "Oganesson",
+            "symbol": "Og",
+            "atomic_number": 118,
+            "group": 18,
+            "period": 7,
+            "molar_mass": 294,
+            "category": "noble-gas"
+        }
+    ]
+}
